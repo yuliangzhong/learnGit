@@ -8,3 +8,5 @@ Now I am beginner 1.0, I start to learn branch control.
 Creating a new branch is quick AND simple.
 
 Emergency bug detected! Fi............xed!
+
+I am now a git advanced user!
