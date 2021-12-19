@@ -4,4 +4,4 @@ I am a git beginner!
 
 Now I am beginner 1.0, I start to learn branch control.
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
