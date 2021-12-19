@@ -1,6 +1,7 @@
 Hello world!
 I am learning Git!
 I am a git beginner!
+I am learning advanced Git!
 
 Now I am beginner 1.0, I start to learn branch control.
 
